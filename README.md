@@ -114,6 +114,67 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 # SIMULATION RESULTS 
 
+AND GATE 
+
+
+![Screenshot 2025-02-21 153901](https://github.com/user-attachments/assets/aab1c7f1-1544-4604-a5c1-045a05c48dd1)
+
+![Screenshot 2025-02-21 153911](https://github.com/user-attachments/assets/84ad33d9-2c22-48e6-9837-5b28bc4fe865)
+
+![Screenshot 2025-02-21 153923](https://github.com/user-attachments/assets/22eea8d6-266f-4875-b344-096f4b9c5652)
+
+![Screenshot 2025-02-21 153938](https://github.com/user-attachments/assets/b566e9cf-8f28-4468-b090-f683824d0d9d)
+
+OR GATE
+
+![Screenshot 2025-02-21 154257](https://github.com/user-attachments/assets/7e3eb5f8-3de8-40c4-bbcb-ed1242faa7ea)
+
+![Screenshot 2025-02-21 154309](https://github.com/user-attachments/assets/12472aa6-9745-4c21-a987-fe267202ac15)
+
+![Screenshot 2025-02-21 154320](https://github.com/user-attachments/assets/d6213bcb-6c69-4384-9327-a661c9e70370)
+
+![Screenshot 2025-02-21 154328](https://github.com/user-attachments/assets/dd797580-7867-48c6-8cd8-837c0f89aed9)
+
+NOT GATE
+
+![Screenshot 2025-02-28 063359](https://github.com/user-attachments/assets/8ea729cc-0753-4bd1-8c34-3e68121158e4)
+
+![Screenshot 2025-02-28 063413](https://github.com/user-attachments/assets/7526e3bb-178f-42aa-9080-9fd64d41f718)
+
+NOR GATE
+
+![Screenshot 2025-02-28 082035](https://github.com/user-attachments/assets/e7d4a68f-cd8b-4c9d-b227-28e7293925cc)
+
+![Screenshot 2025-02-28 082054](https://github.com/user-attachments/assets/8135f548-d5cd-4bf8-917b-1758c269eb84)
+
+![Screenshot 2025-02-28 082105](https://github.com/user-attachments/assets/471afc08-7a65-4423-9505-abc983306906)
+
+![Screenshot 2025-02-28 082154](https://github.com/user-attachments/assets/f0a63cd6-b9a7-4604-b69b-8b33a97d0d4d)
+
+
+
+NAND GATE
+
+![Screenshot 2025-02-21 160029](https://github.com/user-attachments/assets/5876c8d6-36df-44e1-9db8-0c271075285a)
+
+![Screenshot 2025-02-21 160109](https://github.com/user-attachments/assets/8a9827e5-5c6c-4509-af48-e044f1e3c14d)
+
+![Screenshot 2025-02-21 160134](https://github.com/user-attachments/assets/af7d4396-08a2-4f0b-858c-d3f29aeb47e7)
+
+![Screenshot 2025-02-21 160147](https://github.com/user-attachments/assets/00bbfcb0-3ede-4667-b8e6-0ab5d4e764eb)
+
+
+XOR GATE
+![Screenshot 2025-02-28 091030](https://github.com/user-attachments/assets/a7cbdfe8-6cac-4c4b-bf95-fd8048df475c)
+
+![Screenshot 2025-02-28 091050](https://github.com/user-attachments/assets/de73df54-29c5-43bd-94a6-3e7271b3d400)
+
+![Screenshot 2025-02-28 091121](https://github.com/user-attachments/assets/f6543ae6-34fe-4e19-82ed-e1d201b792af)
+
+
+
+# SIMULATION RESULTS 
+
 
 #Results:
 The ladder logic programs for each logic gate were successfully implemented and simulated.
