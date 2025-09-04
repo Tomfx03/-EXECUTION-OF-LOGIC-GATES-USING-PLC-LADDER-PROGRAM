@@ -1,10 +1,10 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT 
- # YEAR 
+ # NAME : Tom francies xaviour L
+ # REGISTER NUMBER :21222311006
+ # DEPARTMENT :CSE(IOT)
+ # YEAR :3rd year
 
  
 # Aim:
@@ -49,6 +49,40 @@ XOR Gate:
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
+
+AND GATE
+
+
+![Screenshot 2025-02-27 161955](https://github.com/user-attachments/assets/e93c39af-aa9f-49df-a1a8-c1497eb9b7e7)
+
+
+OR GATE
+
+
+![Screenshot 2025-02-27 162003](https://github.com/user-attachments/assets/21b30d36-6a02-4b82-9023-666c427ad354)
+
+NOT GATE
+
+
+![Screenshot 2025-02-27 162013](https://github.com/user-attachments/assets/238a8d5f-6a02-4690-8b27-5e06ac418c02)
+
+NOR GATE
+
+
+![Screenshot 2025-02-27 162021](https://github.com/user-attachments/assets/8c99dfd8-8172-4765-b88e-65ef8fdd3f8d)
+
+NAND GATE
+
+
+![Screenshot 2025-02-27 162027](https://github.com/user-attachments/assets/dd7b9bac-3383-4d2b-98d3-04c3ab96a835)
+
+XOR GATE
+
+
+![Screenshot 2025-02-27 162035](https://github.com/user-attachments/assets/2be1239d-3f1b-4485-8642-41ca90bf42d7)
+
+
+
  
 # Procedure:
 Setup the PLC Programming Environment:
